@@ -5,19 +5,109 @@
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Personas e Histórias do usuário 
+O detalhamento das personas e histórias de usuário está apresentado na tabela abaixo:
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+Persona
+Sobre
+Necessidade
+Malu
+
+Persona
+Idade: 33 anos
+Ocupação: Formada em arquitetura e urbanismo, trabalha em período integral em uma empresa da área. 
+
+
+
+
+
+
+Sobre
+Engravidar. 
+
+Malu tem SOP e precisa seguir o cronograma correto para ter sucesso na fecundação. 
+
+
+
+
+
+
+Necessidade
+Renato
+
+Idade: 28 anos
+Ocupação: Formado em educação física, trabalha como personal trainer e instrutor de crossfit. 
+
+
+
+
+
+Sobre
+Competição fisiculturista
+
+Ele deseja analisar a sua evolução física, inserindo a pesagem semanal, os horários/quantidade de refeições que deve seguir.
+
+
+
+Necessidade
+Joana
+
+Idade: 83 anos
+Ocupação: Professora de literatura aposentada, dedica suas tardes a um projeto voluntário de leitura para crianças em situação vulnerável. 
+
+
+
+
+Sobre
+Análise para medicação
+
+Ela precisa do monitoramento da pressão arterial e da glicemia.
+
+
+
+
+
+Necessidade
+Adriano
+
+Idade: 35 anos 
+Ocupação: Designer gráfico e YouTuber. Adriano sofreu um acidente e desde o ocorrido realiza diversos acompanhamentos médicos por mês. 
+
+
+
+
+Sobre
+Recordar as orientações do médico
+
+Ele precisa registrar suas consultas e orientações passadas pela  médica.
+
+
+
+
+
+Necessidade
+Renato 
+
+Idade: 28 anos
+Ocupação: Chef de cozinha. 
+Renato tem um filho, Pedro, que possui Diabetes Tipo 1 necessitando de injeções diárias de insulina.
+
+
+
+
+
+Sobre
+Lembrete de horário e anotações 
+
+Ele precisa de lembretes com os horários específicos referente as injeções e anotações para acompanhar a concentração exata de glicose no sangue. 
+
+
+
+
+Necessidade
+
+
 
 ## Histórias de Usuários
 
